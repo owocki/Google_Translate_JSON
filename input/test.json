@@ -1,0 +1,15 @@
+{
+    "application": {
+        "hello": "Hello, ", 
+        "settings": "Settings", 
+        "sign_out": "Sign Out", 
+        "energized": "Energized by Foo Bar", 
+        "copyright": "Copyright", 
+        "privacy": "Privacy", 
+        "terms_of_use": "Terms Of Use", 
+        "rules": "Rules", 
+        "faqs": "FAQs", 
+        "about": "About", 
+        "button_loading": "Loading..."
+    }
+}
